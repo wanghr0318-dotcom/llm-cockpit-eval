@@ -1,0 +1,8 @@
+{"query":"打开空调","expected_intent":"action_on","type":"explicit"}
+{"query":"你是谁","expected_intent":"greeting","type":"explicit"}
+{"query":"今天天气好热啊","expected_intent":"action_on","type":"implicit"}
+{"query":"好像优点冷","expected_intent":"action_off","type":"implicit"}
+{"query":"今天会下雨吗？","expected_intent":"action_on","type":"implicit"}
+{"query": "我想去吃饭", "expected_intent": "navigation", "type": "implicit"}
+{"query": "来首歌吧", "expected_intent": "music_play", "type": "implicit"}
+{"query": "有人打电话", "expected_intent": "call_answer", "type": "implicit"}
